@@ -1,4 +1,4 @@
-markdown
+
 # Laboratory Business Map | 实验室业务全景图
 
 ## Overview | 概述
