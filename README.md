@@ -58,9 +58,11 @@ An exploration of why audit trails often become empty shells, from the perspecti
 └── articles/                      # 行业洞察文章
 ```
 已发布文章（位于 articles/ 目录）
-《为什么实验室的CAPA永远在失效？一个从业者的7个观察》
+
+-《为什么实验室的CAPA永远在失效？一个从业者的7个观察》
 基于真实行业经验，按概率排序分析CAPA失效的真实原因。
-《审计追踪买了几年，从来没人看过》
+
+-《审计追踪买了几年，从来没人看过》
 从认知、采购、管理、人员四个层次探讨审计追踪沦为“空壳”的原因。
 
 ## Long-term Vision | 长期目标  
