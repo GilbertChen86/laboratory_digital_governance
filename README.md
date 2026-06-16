@@ -1,13 +1,13 @@
-﻿#Laboratory Digital Governance Knowledge Base
-#实验室数字治理知识库
+﻿# **Laboratory Digital Governance Knowledge Base**
+# **实验室数字治理知识库**
 
-##Project Objective | 项目目标  
+## Project Objective | 项目目标  
 
 To systematically summarize my career experience in the laboratory industry, extracting transferable value from both successful practices and failures (anti-patterns). The goal is to build a practical knowledge base that goes beyond standard answers found in textbooks or regulations, serving as an evolving professional portfolio for personal career development.
 
 系统性地总结我在实验室行业的职业经历，从正面实践和反面教训（反模式）中提炼可迁移的经验价值。目标是建立一个超越教科书或法规标准答案的实用知识库，作为适应社会与技术不断发展的个人名片。
 
-##Why This Project | 为什么做  
+##  Why This Project | 为什么做  
 
 In the laboratory industry, most available information consists of regulatory standards (ISO 17025, GLP, etc.) or ideal-system blueprints. However, real-world experiences—especially the gaps between "what should be done" and "what is actually done," the compromises under commercial pressure, and the root causes of management tool failures—are rarely documented. This project aims to fill that gap by providing:
 - Real-world industry insights from a practitioner's perspective.
@@ -21,21 +21,21 @@ This is not just a knowledge base; it is a living portfolio demonstrating my a
 - 为医药、新兴行业等强监管环境中面临类似挑战的专业人士提供有实际价值的参考。
 这不仅仅是一个知识库，更是一份展示我观察、抽象和解决问题能力的活名片。
 
-##Current Content | 当前内容  
+##  Current Content | 当前内容  
 
 The first version of the project architecture has been established:
 
-├── README.md                      # Project overview
-├── business-map/                  # Laboratory business process modeling
-├── lifecycle-model/               # Lifecycle control models (sample, data, report, etc.)
-├── data-governance/               # ALCOA+, metadata, data integrity, etc.
-├── audit-trail/                   # Audit trail management and pitfalls
-├── risk-model/                    # Risk and exception classification
-├── state-machine/                 # State transition definitions
-├── architecture/                  # Digital control architecture
-├── diagrams/                      # Visual models and flowcharts
-├── prototypes/                    # Prototype designs for tools/systems
-└── articles/                      # Industry insight articles
+-├── README.md                      # Project overview
+-├── business-map/                  # Laboratory business process modeling
+-├── lifecycle-model/               # Lifecycle control models (sample, data, report, etc.)
+-├── data-governance/               # ALCOA+, metadata, data integrity, etc.
+-├── audit-trail/                   # Audit trail management and pitfalls
+-├── risk-model/                    # Risk and exception classification
+-├── state-machine/                 # State transition definitions
+-├── architecture/                  # Digital control architecture
+-├── diagrams/                      # Visual models and flowcharts
+-├── prototypes/                    # Prototype designs for tools/systems
+-└── articles/                      # Industry insight articles
 
 Published Articles (under articles/)
 "Why Does Laboratory CAPA Always Fail? 7 Observations from a Practitioner"
@@ -45,17 +45,17 @@ An exploration of why audit trails often become empty shells, from the perspecti
 
 已建立项目第一版架构：
 
-├── README.md                      # 项目概述
-├── business-map/                  # 实验室业务流程建模
-├── lifecycle-model/               # 生命周期控制模型（样品、数据、报告等）
-├── data-governance/               # ALCOA+、元数据、数据完整性等
-├── audit-trail/                   # 审计追踪管理与陷阱
-├── risk-model/                    # 风险与异常分类
-├── state-machine/                 # 状态转换定义
-├── architecture/                  # 数字化控制架构
-├── diagrams/                      # 可视化模型与流程图
-├── prototypes/                    # 工具/系统原型设计
-└── articles/                      # 行业洞察文章
+-├── README.md                      # 项目概述
+-├── business-map/                  # 实验室业务流程建模
+-├── lifecycle-model/               # 生命周期控制模型（样品、数据、报告等）
+-├── data-governance/               # ALCOA+、元数据、数据完整性等
+-├── audit-trail/                   # 审计追踪管理与陷阱
+-├── risk-model/                    # 风险与异常分类
+-├── state-machine/                 # 状态转换定义
+-├── architecture/                  # 数字化控制架构
+-├── diagrams/                      # 可视化模型与流程图
+-├── prototypes/                    # 工具/系统原型设计
+-└── articles/                      # 行业洞察文章
 
 已发布文章（位于 articles/ 目录）
 《为什么实验室的CAPA永远在失效？一个从业者的7个观察》
@@ -63,7 +63,7 @@ An exploration of why audit trails often become empty shells, from the perspecti
 《审计追踪买了几年，从来没人看过》
 从认知、采购、管理、人员四个层次探讨审计追踪沦为“空壳”的原因。
 
-##Long-term Vision | 长期目标  
+## Long-term Vision | 长期目标  
 
 To evolve this knowledge base into a comprehensive experience database that provides:
 - Technical solutions for digital governance in regulated industries (pharmaceuticals, medical devices, etc.).
@@ -91,7 +91,7 @@ MIT License – free to use, share, and adapt with attribution.
 
 采用 MIT 许可证——可自由使用、分享、改编，请保留署名。
 
-##About the Author | 关于作者
+## About the Author | 关于作者
 
 Gilbert Chen – Laboratory quality management professional with 15 years of cross-industry experience (testing, certification, life sciences).
 I specialize in bridging quality management systems (ISO 17025, CMA, ISO 15189) with technical enablers (Python/VBA/LIMS) to improve operational efficiency and data integrity. My hands-on experience spans:
