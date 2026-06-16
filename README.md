@@ -102,7 +102,9 @@ International project – Participated in the Angola "Huoyan Lab" (COVID-19 test
 I am now systematically studying GMP and ICH Q10 pharmaceutical quality systems, aiming to apply my accumulated experience in quality management, audit response, and digital tool development to the pharmaceutical industry's compliance landscape.
 Core capabilities: ISO 17025/15189/CMA, LIMS/OA, Python/VBA/R, GC-MS/HPLC, data integrity, audit (internal/external/client).
 Education: Bachelor's in Pharmaceutical Engineering, Jilin University.
+
 ---
+
 Gilbert Chen – 实验室质量管理从业者，拥有15年跨行业经验（检测、认证、生命科学）。
 我擅长将质量管理体系（ISO 17025、CMA、ISO 15189）与技术工具（Python/VBA/LIMS）相结合，提升实验室运营效率与数据可靠性。我的实践经验涵盖：
 体系搭建与审核 – 主导完成多项CNAS/ANAB认可、CMA资质认定项目。
