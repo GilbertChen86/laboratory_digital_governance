@@ -24,7 +24,7 @@ This is not just a knowledge base; it is a living portfolio demonstrating my a
 ##  Current Content | 当前内容  
 
 The first version of the project architecture has been established:
-...text
+```text
 ├── README.md                      # Project overview
 ├── business-map/                  # Laboratory business process modeling
 ├── lifecycle-model/               # Lifecycle control models (sample, data, report, etc.)
@@ -36,7 +36,7 @@ The first version of the project architecture has been established:
 ├── diagrams/                      # Visual models and flowcharts
 ├── prototypes/                    # Prototype designs for tools/systems
 └── articles/                      # Industry insight articles
-...
+```
 Published Articles (under articles/)
 "Why Does Laboratory CAPA Always Fail? 7 Observations from a Practitioner"
 Analysis of the real reasons behind CAPA ineffectiveness, ranked by probability, based on authentic industry experience.
@@ -44,7 +44,7 @@ Analysis of the real reasons behind CAPA ineffectiveness, ranked by probability,
 An exploration of why audit trails often become empty shells, from the perspectives of cognition, technology, management, and human factors.
 
 已建立项目第一版架构：
-...text
+```text
 ├── README.md                      # 项目概述
 ├── business-map/                  # 实验室业务流程建模
 ├── lifecycle-model/               # 生命周期控制模型（样品、数据、报告等）
@@ -56,7 +56,7 @@ An exploration of why audit trails often become empty shells, from the perspecti
 ├── diagrams/                      # 可视化模型与流程图
 ├── prototypes/                    # 工具/系统原型设计
 └── articles/                      # 行业洞察文章
-...
+```
 已发布文章（位于 articles/ 目录）
 《为什么实验室的CAPA永远在失效？一个从业者的7个观察》
 基于真实行业经验，按概率排序分析CAPA失效的真实原因。
