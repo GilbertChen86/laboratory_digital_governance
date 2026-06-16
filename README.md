@@ -38,9 +38,13 @@ The first version of the project architecture has been established:
 └── articles/                      # Industry insight articles
 ```
 Published Articles (under articles/)
-"Why Does Laboratory CAPA Always Fail? 7 Observations from a Practitioner"
+
+-"Why Does Laboratory CAPA Always Fail? 7 Observations from a Practitioner"
+
 Analysis of the real reasons behind CAPA ineffectiveness, ranked by probability, based on authentic industry experience.
-"The Audit Trail Has Been Purchased for Years, But No One Has Ever Looked at It"
+
+-"The Audit Trail Has Been Purchased for Years, But No One Has Ever Looked at It"
+
 An exploration of why audit trails often become empty shells, from the perspectives of cognition, technology, management, and human factors.
 
 已建立项目第一版架构：
@@ -60,9 +64,11 @@ An exploration of why audit trails often become empty shells, from the perspecti
 已发布文章（位于 articles/ 目录）
 
 -《为什么实验室的CAPA永远在失效？一个从业者的7个观察》
+
 基于真实行业经验，按概率排序分析CAPA失效的真实原因。
 
 -《审计追踪买了几年，从来没人看过》
+
 从认知、采购、管理、人员四个层次探讨审计追踪沦为“空壳”的原因。
 
 ## Long-term Vision | 长期目标  
